@@ -1,0 +1,3 @@
+displayName = RCE_Terraria
+author = Julain (De Dios) Druetto
+version = 0.1
