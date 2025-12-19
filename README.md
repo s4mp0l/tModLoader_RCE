@@ -50,6 +50,8 @@ We have different ways of delivering our payload. Check the following section.
 
 It's a 1-Click Social Engineering exploit: Prompt requires "Yes" to download or manual subscribe/enable from Workshop.
 
+> It is important to note that this is a limitation that was implemented recently. Previously, tModLoader downloaded mods directly to the client without asking, but the “feature” is still present and can still be abused, although it requires a confirmation click.
+
 # Disclaimer & Responsible Disclosure
 
 The purpose of this PoC is strictly educational and research-oriented. I am not responsible for any misuse of this code. Using this code to harm others violates laws in most jurisdictions and goes against ethical hacking principles.
